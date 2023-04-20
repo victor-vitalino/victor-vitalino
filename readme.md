@@ -51,7 +51,7 @@
   - Back-End: Rest Api, Javascript ES6+, Nodejs, Express, AdonisJs, Socket-IO, PostgreSql, Integration with payment gateways
   - Front-End: ReactJS, Styled Components, Material UI, Redux, Zustand, Single SPA
   - Mobile: React Native, Redux, MapBox, Onesignal, Firebase
-- 🌱 I'm constantly learning and improving my skills
+- 🌱 I'm constantly learning and improving my skills and Currently, I am learning: Micro Frontends with ReactJS
 - 🔭 I'm currently working on a full-stack application focused on smart tourism using ReactJS, AdonisJS, and React Native.
 - 📫 How to reach me: <a href="mailto:victorvitalino237@gmail.com">Email</a>
 
